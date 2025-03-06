@@ -1,0 +1,5 @@
+.lmj-cart { /* Définition du style pour le panier (cart) */
+    padding: 32px; /* Ajoute un espace intérieur de 32px autour du contenu */
+    color: white; /* Définit la couleur du texte en blanc */
+    background-color: #31b572; /* Définit la couleur de fond en vert (#31b572) */
+}

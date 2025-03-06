@@ -1,0 +1,19 @@
+.lmj-banner { /* Définition du style pour la bannière */
+    color:greenyellow; /* Définit la couleur du texte en vert-jaune */
+    text-align:center; /* Centre le texte horizontalement */
+    padding: 32px; /* Ajoute un espace intérieur de 32px autour du contenu */
+    border-bottom: solid 3px brown; /* Ajoute une bordure marron de 3px en bas */
+    display: flex; /* Utilise le modèle Flexbox pour organiser les éléments */
+    justify-content: flex-end; /* Aligne les éléments à l'extrémité droite */
+    flex-direction: row; /* Aligne les éléments en ligne horizontale (par défaut) */
+    align-items: center; /* Centre les éléments verticalement */
+}
+
+.lmj-logo { /* Style appliqué au logo */
+    height: 45px; /* Définit la hauteur du logo à 45px */
+    width: 45px; /* Définit la largeur du logo à 45px */
+}
+
+.lmj-title { /* Style appliqué au titre */
+    padding-left: 32px; /* Ajoute un espacement de 32px à gauche du titre */
+}
